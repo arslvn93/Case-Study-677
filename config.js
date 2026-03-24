@@ -86,9 +86,6 @@ const config = {
         "Leveraged our extensive buyer database to identify and directly communicate with qualified investor clients who matched this exact opportunity profile",
         "Represented both seller and buyer to ensure seamless execution and alignment of vision throughout the entire transaction"
       ],
-      "testimonial": {
-        "quote": "\"\"I wish we went to you sooner as this would have been done a lot quicker. We watched other agents try everything for over a year with no results. You understood exactly what we needed and made it happen. The relief we felt when you found the perfect buyer for both properties was incredible—you delivered exactly what we were hoping for when everyone else said it couldn't be done.\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
