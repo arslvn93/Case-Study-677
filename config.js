@@ -97,9 +97,6 @@ const config = {
       "paragraphs": [
         "After watching other professionals fail for over a year, the sellers came to us because of our proven track record and extensive investor network. They needed someone who didn't just list properties—they needed an agent who understood investment strategy, development potential, and had direct access to the exact type of buyer these unique properties demanded."
       ],
-      "image": {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1773785607127-L3RycmViL2xpc3RpbmdzLzQxLzU1LzYwLzUyL3AvY2RkNjU0Y2YtZDMwYy00YjFhLTk1ODAtMGI0NDY4NzliZTdhLmpwZw.jpg"
-      },
       "listItems": []
     },
     {
