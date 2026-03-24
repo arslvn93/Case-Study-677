@@ -1,20 +1,9 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "iStreet Realty Group",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Rick Roccasalva",
-        "imageSrc": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg",
+        "imageSrc": "",
         "contactDetails": [
           {
             "type": "email",
@@ -25,8 +14,28 @@ const config = {
             "value": "416 616 9369"
           }
         ]
+      },
+      {
+        "name": "Steven Simonetti",
+        "imageSrc": "",
+        "contactDetails": [
+          {
+            "type": "email",
+            "value": "steven@istreetrealty.ca"
+          },
+          {
+            "type": "phone",
+            "value": "(416) 400-7653"
+          }
+        ]
       }
-    ]
+    ],
+    "companyName": "iStreet Realty Group",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/rick-istreetrealty/discovery-call",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +73,8 @@ const config = {
         "Finding a buyer who could recognize the long-term development vision these massive lots offered, not just see two aging houses",
         "The sellers needed both properties sold to the same buyer to maximize the future development potential",
         "Growing fear that they might never find the right investor who understood what these properties could become"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +88,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"I wish we went to you sooner as this would have been done a lot quicker. We watched other agents try everything for over a year with no results. You understood exactly what we needed and made it happen. The relief we felt when you found the perfect buyer for both properties was incredible—you delivered exactly what we were hoping for when everyone else said it couldn't be done.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +99,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1773785607127-L3RycmViL2xpc3RpbmdzLzQxLzU1LzYwLzUyL3AvY2RkNjU0Y2YtZDMwYy00YjFhLTk1ODAtMGI0NDY4NzliZTdhLmpwZw.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -99,7 +111,8 @@ const config = {
         "Generated 45+ showings and secured 2 serious offers from qualified investors",
         "Achieved the sellers' primary goal: selling both properties together to maximize development potential",
         "Delivered retirement freedom and financial security the sellers had been waiting over a year to access"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -108,7 +121,8 @@ const config = {
         "Every property is sellable—even unique or challenging ones—when you have an agent with the right expertise and buyer network to match your specific situation",
         "Waiting for the \"perfect time\" costs you money and peace of mind; the right time to sell is when you're ready and working with the right professional",
         "Agent experience matters exponentially when selling investment or development properties; generic marketing approaches fail where strategic positioning succeeds"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -120,24 +134,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://istreetrealty.ca/privacy-policy/"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "iStreet Realty Group - HomeLife Partners",
     "brokerageAddress": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://istreetrealty.ca/privacy-policy/"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-677"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
