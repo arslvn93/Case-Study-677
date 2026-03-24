@@ -40,7 +40,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Sold Two Hard-to-Move Investment Properties for $2.2M to a Single Buyer After Other Agents Failed for Over a Year",
-    "subheadline": "Twin Properties, One Strategic Vision—Unlocking Hidden Development Potential That Others Couldn't See"
+    "subheadline": "Twin Properties, One Strategic Vision. Unlocking Hidden Development Potential That Others Couldn't See"
   },
   "mainBox": {
     "summary": {
