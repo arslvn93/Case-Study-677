@@ -112,7 +112,7 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "Every property is sellable—even unique or challenging ones—when you have an agent with the right expertise and buyer network to match your specific situation",
+        "Every property is sellable, even unique or challenging ones, when you have an agent with the right expertise and buyer network to match your specific situation",
         "Waiting for the \"perfect time\" costs you money and peace of mind; the right time to sell is when you're ready and working with the right professional",
         "Agent experience matters exponentially when selling investment or development properties; generic marketing approaches fail where strategic positioning succeeds"
       ],
