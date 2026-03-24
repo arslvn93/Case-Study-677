@@ -69,7 +69,7 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "Previous agents had been trying—and failing—to sell these properties for over 12 months with no success",
+        "Previous agents had been trying and failing, to sell these properties for over 12 months with no success",
         "Finding a buyer who could recognize the long-term development vision these massive lots offered, not just see two aging houses",
         "The sellers needed both properties sold to the same buyer to maximize the future development potential",
         "Growing fear that they might never find the right investor who understood what these properties could become"
@@ -92,7 +92,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After watching other professionals fail for over a year, the sellers came to us because of our proven track record and extensive investor network. They needed someone who didn't just list properties—they needed an agent who understood investment strategy, development potential, and had direct access to the exact type of buyer these unique properties demanded."
+        "After watching other professionals fail for over a year, the sellers came to us because of our proven track record and extensive investor network. They needed someone who didn't just list properties, they needed an agent who understood investment strategy, development potential, and had direct access to the exact type of buyer these unique properties demanded."
       ],
       "listItems": []
     },
@@ -122,7 +122,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Schedule Your Complimentary Property Potential Analysis—discover what your property could really be worth to the right buyer and get a custom strategy to sell it fast",
+        "headline": "Schedule Your Complimentary Property Potential Analysis. Discover what your property could really be worth to the right buyer and get a custom strategy to sell it fast",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
