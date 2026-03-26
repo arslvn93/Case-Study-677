@@ -51,7 +51,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "Two retired investors owned unique side-by-side properties on King Road with enormous development potential. After watching other agents struggle for over a year to find the right buyer, they were starting to wonder if selling both properties together was even possible.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD BOTH PROPERTIES TO A SINGLE INVESTOR for $2.2M combined ($1.1M each) Successfully closed a deal that stumped other agents and brokerages for over 12 months Generated 45+ showings and secured 2 serious offers from qualified investors Achieved the sellers' primary goal: selling both properties together to maximize development potential Delivered retirement freedom and financial security the sellers had been waiting over a year to access"
+        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD BOTH PROPERTIES TO A SINGLE INVESTOR for $2.2M combined ($1.1M each) Successfully closed a deal that stumped other agents and brokerages for over 12 months Generated 45+ showings and secured 2 serious offers from qualified investors. Achieved the sellers' primary goal: selling both properties together to maximize development potential.  Delivered retirement freedom and financial security the sellers had been waiting over a year to access."
       ]
     },
     "sidebar": {
